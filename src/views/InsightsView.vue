@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Integrity guidance</span><h2>Every nature credit needs measurable outcomes and credible safeguards</h2><p>Land managers, communities, investors and authorities can coordinate baselines, verification and long-term ecosystem stewardship.</p></section></template>
